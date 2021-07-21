@@ -1,5 +1,5 @@
 //1.WAP to read a number from the user and test whether the number is negative.
-//[ Show message ì THE NUMBER IS NEGATIVEî if it is a negative number
+//[ Show message ‚Äú THE NUMBER IS NEGATIVE‚Äù if it is a negative number
 //otherwise show nothing. [if-statement]
 #include<stdio.h>
 void main()
